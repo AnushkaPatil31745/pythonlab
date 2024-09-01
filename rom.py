@@ -15,6 +15,6 @@ def rom(text, text_base):
     
     return roman_numeral
 
-print(rom("100", 4))  # Output: "XVI"
-print(rom("101", 2))  # Output: "V"
-print(rom("3E8", 16))  # Output: "M"
+print(rom("100", 4))  
+print(rom("101", 2))  
+print(rom("3E8", 16)) 
